@@ -27,6 +27,7 @@ public interface Constants {
     String DEPRECATED_KEY = "deprecated";
 
     String $ECHO = "$echo";
+    String $ECHO_PARAMETER_DESC = "Ljava/lang/Object;";
 
     String RETURN_PREFIX = "return ";
 
@@ -69,6 +70,8 @@ public interface Constants {
     String RETURN_KEY = "return";
 
     String TOKEN_KEY = "token";
+
+    String INTERFACE = "interface";
 
     String INTERFACES = "interfaces";
 
